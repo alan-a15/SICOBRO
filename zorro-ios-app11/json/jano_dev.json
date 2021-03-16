@@ -1,0 +1,11 @@
+{
+    "host": "http://3.15.231.19:8080",
+    "timeout": 45000,
+    "appversion": "1.0.12-081020",
+    "isDev": true,
+    "readTimeout": 62,
+    "simulateLatency": false,
+    "paymentServicesHost": "http://3.15.231.19:8091",
+    "paymentServicesTimeout": 45000,
+    "paymentServicesReadTimeout": 62
+}

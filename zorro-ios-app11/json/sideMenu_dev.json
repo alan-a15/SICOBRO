@@ -1,0 +1,54 @@
+[
+    {
+        "id" : "start",
+        "label" : "Inicio",
+        "imageSrc" : "inicio",
+        "showsIn" : ["SICOBRO"],
+        "type" : "CUSTOM"
+    },
+    {
+        "id" : "mainMenu",
+        "label" : "Menu Principal",
+        "imageSrc" : "menu",
+        "showsIn" : ["SICOBRO"],
+        "type" : "CUSTOM"
+    },
+    {
+        "id" : "termsAndConditions",
+        "label" : "Términos y condiciones",
+        "imageSrc" : "terms",
+        "showsIn" : ["BANNERS","SICOBRO"],
+        "type" : "URL",
+        "URL" : "http://desarrollo.eactae.com:8088/terminos/terminos-condiciones.html"
+    },
+    {
+        "id" : "privacy",
+        "label" : "Aviso de privacidad",
+        "imageSrc" : "privacy",
+        "showsIn" : ["BANNERS","SICOBRO"],
+        "type" : "URL",
+        "URL" : "http://desarrollo.eactae.com:8088/terminos/aviso-privacidad.html"
+    },
+    {
+        "id" : "contactus",
+        "label" : "Contáctanos",
+        "imageSrc" : "contact_us",
+        "showsIn" : ["BANNERS","SICOBRO"],
+        "type" : "CUSTOM",
+        "URL" : ""
+    },
+    {
+        "id" : "deleteSession",
+        "label" : "Borrar Datos",
+        "imageSrc" : "logout",
+        "showsIn" : ["BANNERS"],
+        "type" : "CUSTOM"
+    },
+    {
+        "id" : "logout",
+        "label" : "Cerrar sesión",
+        "imageSrc" : "logout",
+        "showsIn" : ["SICOBRO"],
+        "type" : "CUSTOM"
+    }
+]

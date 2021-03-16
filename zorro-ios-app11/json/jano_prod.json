@@ -1,0 +1,11 @@
+{
+    "host": "https://www.sicobrototal.com.mx",
+    "timeout": 45000,
+    "appversion": "1.0.12-081020",
+    "isDev": false,
+    "readTimeout": 62,
+    "simulateLatency": false,
+    "paymentServicesHost": "https://www.sicobrototal.com.mx",
+    "paymentServicesTimeout": 45000,
+    "paymentServicesReadTimeout": 62
+}

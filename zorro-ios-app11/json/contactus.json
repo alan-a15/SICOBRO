@@ -1,0 +1,26 @@
+[
+    {
+        "id" : "mail",
+        "label" : "atencionzorro@asezor.com",
+        "value" : "atencionzorro@asezor.com",
+        "imageSrc" : "emicon"
+    },
+    {
+        "id" : "whatsapp",
+        "label" : "55 33 16 58 00",
+        "value" : "+5215533165800",
+        "imageSrc" : "waicon"
+    },
+    {
+        "id" : "fb",
+        "label" : "Zorro Abarrotero",
+        "value" : "ZorroAbarrotero",
+        "imageSrc" : "fbicon"
+    },
+    {
+        "id" : "web",
+        "label" : "www.zorroabarrotero.com.mx",
+        "value" : "https://www.zorroabarrotero.com.mx",
+        "imageSrc" : "webicon"
+    }
+]

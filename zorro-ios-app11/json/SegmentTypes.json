@@ -1,0 +1,38 @@
+
+[
+    {
+        "id" : 1,
+        "name" : "",
+        "icon" : "catalogosg_icon",
+        "samples" : "Avon - Jafra - Fuller",
+        "enabled": true
+    },
+    {
+        "id" : 2,
+        "name" : "",
+        "icon" : "serviciosg_icon",
+        "samples" : "CFE - Infonavit - CDMX",
+        "enabled": true
+    },
+    {
+        "id" : 3,
+        "name" : "",
+        "icon" : "telefoniag_icon",
+        "samples" : "Telmex - Maxcom - Axtel",
+        "enabled": true
+    },
+    {
+        "id" : 4,
+        "name" : "",
+        "icon" : "televisiong_icon",
+        "samples" : "Totalplay - Izzi - Dish",
+        "enabled": true
+    },
+    {
+        "id" : 5,
+        "name" : "",
+        "icon" : "transporteg_icon",
+        "samples" : "Televia - IAVE - Omnibus",
+        "enabled": true
+    },
+]

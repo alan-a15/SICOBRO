@@ -1,0 +1,58 @@
+[
+   {
+     "name": "carrousel_adds",
+     "description" : "Carrousel Ads",
+     "enabled" : true,
+     "imageSrc" : "home-carrousel1",
+     "target" : "CARROUSEL",
+     "targetUrl" : "",
+     "carruselImages" : [
+       {
+         "description" : "home-carrousel1",
+         "enabled" : true,
+         "imageSrc" : "home-carrousel1",
+         "target" : "AD",
+         "targetUrl" : ""
+       },
+       {
+         "description" : "home-carrousel2",
+         "enabled" : true,
+         "imageSrc" : "home-carrousel2",
+         "target" : "AD",
+         "targetUrl" : ""
+       }
+     ]
+   },
+  {
+    "name": "Comunidad Red - Zorro",
+    "description" : "Comunidad Red - Zorro",
+    "enabled" : true,
+    "imageSrc" : "banner1-comunidadred",
+    "target" : "COMUNIDADRED",
+    "targetUrl" : "https://www.zorroabarrotero.com.mx/comunidadred/"
+  },
+  {
+    "name": "SiCobro",
+    "description" : "SiCobro APP",
+    "enabled" : true,
+    "imageSrc" : "banner2-sicobro",
+    "target" : "SICOBRO",
+    "targetUrl" : ""
+  },
+  {
+    "name": "Promociones",
+    "description" : "Promociones Zorro",
+    "enabled" : true,
+    "imageSrc" : "banner3-promotions",
+    "target" : "VOLANTES",
+    "targetUrl" : "https://www.zorroabarrotero.com.mx/promociones/"
+  },
+  {
+    "name": "Sucursales",
+    "description" : "Ubica tu tienda - Sucursales",
+    "enabled" : true,
+    "imageSrc" : "banner4-location",
+    "target" : "FINDSTORE",
+    "targetUrl" : "https://www.zorroabarrotero.com.mx/sucursales/"
+  }
+]
